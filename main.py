@@ -11,7 +11,6 @@ import pandas as pd
 import datetime as dt
 import urllib
 import math
-from tqdm import tqdm
 
 #JupyterDash.infer_jupyter_proxy_config()
 
